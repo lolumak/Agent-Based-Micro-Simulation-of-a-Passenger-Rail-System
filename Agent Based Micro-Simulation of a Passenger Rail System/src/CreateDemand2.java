@@ -39,7 +39,7 @@ import com.vividsolutions.jts.io.WKTReader;
 
 public class CreateDemand2 {
 
-	private static final String NETWORKFILE = "//jupiter.inf.brad.ac.uk/oamakind/SOIProfile/Desktop/Traffic Simulation/Workspace/pt2matsim/input/NYmappedNTW.xml";
+	private static final String NETWORKFILE = "./input/modeled_rail_line_with_stops.xml";
 	private static final String KREISE = "./input/new-york_new-york-shapefiles/new-york_new-york_osm_buildings.shp";
 	
 	private static final String PLANSFILEOUTPUT = "./input/20TESTPLAN.xml";
